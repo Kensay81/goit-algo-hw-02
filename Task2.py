@@ -20,7 +20,6 @@ input_str3 = "Python"
 input_str4 = "F1 F1"
 input_str5 = "F11f"
 
-
 print(is_palindrome(input_str1))  
 print(is_palindrome(input_str2))  
 print(is_palindrome(input_str3))  
